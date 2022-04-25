@@ -86,3 +86,59 @@ Internal CSS
     <hr>
   </body>
 </html>
+
+              
+External CSS
+------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="CSS/style.css">
+
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td>
+          <img src="ayyappan.png" alt="Ayyappan Image" width="150" height="150" />
+        </td>
+        <td>
+          <h1> Ayyappan </h1>
+          <p>
+            <em> MTech Software Engineer @ <strong> VIT University  </strong> </em>
+          </p>
+          <p> Hello, my name is Ayyappan A. I’m studying software engineering
+      because I’m passionate about exploring ways technology can provide
+      practical solutions to everyday problems. I’m particularly interested
+      in Ethical Hacking related to the field of Cyber Security. I’m looking
+      to connect with engineers and other professionals who are currently
+      working in that field. </p>
+        </td>
+      </tr>
+    </table>
+    <hr>
+  </body>
+</html>
+
+style.css
+---------
+              
+body {
+ background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 30%;
+}
+
+h1 {
+  color: red;
+}
+              
+              
