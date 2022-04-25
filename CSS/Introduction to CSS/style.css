@@ -4,8 +4,8 @@ CSS is the language we use to style an HTML document.
 CSS describes how HTML elements should be displayed.
 
 
-Inline CSS
-----------
+                                             Inline CSS
+                                             ----------
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -39,8 +39,8 @@ Inline CSS
 
 
               
-Internal CSS
-------------
+                                             Internal CSS
+                                             ------------
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -88,7 +88,11 @@ Internal CSS
 </html>
 
               
-External CSS
+                                         External CSS
+                                         ------------              
+
+              
+index.html              
 ------------
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
