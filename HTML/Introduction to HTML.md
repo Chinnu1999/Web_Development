@@ -1,1 +1,43 @@
 # HTML - HyperText Markup Language
+
+<title> Web Development </title> -> The name will be display in the browser tab
+
+<body> Hello World </body> -> It will display in the body of the website in browser
+
+## The Anatomy of HTML Tag
+
+1) <h1> Hello World </h1> 
+-> here <h1> and </h1> are start and end tag 
+-> Hello World is a content
+
+### There are 6 heading tags from h1 to h6
+
+<h1> This is a level 1 heading created using the h1 tag </h1>
+<h1> heading tag </h1>
+<h2> heading tag </h2>
+<h3> heading tag </h3>
+<h4> heading tag </h4>
+<h5> heading tag </h5>
+<h6> heading tag </h6>
+
+
+
+2) <br> -> Self closing tag and it breaks the line then it gives space between two lines.
+
+3) <hr> ->  It is also an self closing tag and it will draw a horizontal line.
+
+   <hr size="3" noshade> -> <hr> is a html element, size="3" is a html attributes. 
+   
+4) <center> Hello Ayyappan </center> -> It will center the content in web page.
+
+5) <!-- Its a comment tag -->  [<!-- -->]
+
+
+### Use waybackmachine.com to check any website that grows from past to present
+
+
+
+  
+ 
+ 
+ 
