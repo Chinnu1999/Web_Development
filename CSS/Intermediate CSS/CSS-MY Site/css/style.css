@@ -1,0 +1,58 @@
+/************************Tag Selector**********************/
+body {
+  background-color: #0A4537;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.cloud {
+  padding: 20px;
+
+}
+
+.mountain {
+  padding-top: 20px;
+  position: relative;
+  top: 24px;
+
+
+
+
+
+}
+
+
+
+.top {
+  background-color: #E4F9F5;
+  padding: 20px;
+  margin: 20px;
+
+}
+
+.middle {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+
+}
+
+
+
+.bottom {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+
+}
