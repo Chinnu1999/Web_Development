@@ -87,6 +87,19 @@ CSS describes how HTML elements should be displayed.
   </body>
 </html>
 
+  
+              
+CSS Syntax
+
+selector { property : value ;}
+
+eg: body { background-color: pink; }
+
+# here the selector is anything [ body, hr, h1, p.....]
+# property -> background-color, width, height.....
+# value -> red, 30% ........              
+              
+              
               
                                          External CSS
                                          ------------              
@@ -144,5 +157,8 @@ hr {
 h1 {
   color: red;
 }
-              
+   
+/*************************************************/
+
+
               
