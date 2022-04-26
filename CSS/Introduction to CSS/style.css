@@ -207,7 +207,7 @@ index.html
 style.css
 ---------
 
-/***********Class selectors****************/
+/***********Class selectors****************not unique********/     
 
 .bacon {
   background-color: green;                 /*** Giving background color for seperate images***/
@@ -215,6 +215,14 @@ style.css
 
 .broccoli {
   background-color: red;
+}
+
+
+#-----------------------------------------------------------------------------------------
+
+
+img:hover {
+  background-color: gold;  /*** The :hover selector is used to select elements when you mouse over them. **/
 }
 
               
